@@ -422,4 +422,6 @@
  :publishing/all-pages-public? true
  :feature/enable-flashcards? false
  :feature/enable-whiteboards? true
- :editor/preferred-pasting-file? true}
+ :editor/preferred-pasting-file? true
+ :feature/enable-journals? false
+ :default-home {:page "contents"}}

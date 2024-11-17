@@ -1,0 +1,5 @@
+-
+- CIE $l, \alpha, \beta$ 颜色空间派生于 [[CIE XYZ 颜色空间]]，通过 $l$ 分量设置亮度感知，通过 $\alpha, \beta$ 精确调整颜色。
+- ![image.png](../assets/image_1731842809228_0.png)
+-
+-

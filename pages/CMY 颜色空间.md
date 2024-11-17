@@ -1,0 +1,5 @@
+-
+- CMY 颜色空间使用青色 Cyan, 品红 Magenta, 黄色 Yellow 作为基底。注意这三个颜色恰好是 RGB 对应的补色，因此我们一般称其为 **减色系统**。
+- ![image.png](../assets/image_1731841320613_0.png){:height 187, :width 267}
+-
+-

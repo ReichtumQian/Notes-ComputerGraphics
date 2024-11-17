@@ -1,0 +1,5 @@
+-
+- CIE XYZ 颜色空间是由 CIE (International Commission on Illumination) 提出的，其可以表示所有颜色。其坐标满足 `Z = 1 - X - Y`
+- ![image.png](../assets/image_1731842104880_0.png){:height 443, :width 422}
+-
+-
