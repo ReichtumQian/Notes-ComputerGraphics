@@ -1,0 +1,11 @@
+:root {
+  --ls-font-family: LXGW Bright, Helvetica Neue, sans-serif;
+}
+.admonitionblock .is-paragraph {
+    size: 12px;
+    font-size: 16px;
+}
+.block-content .image-resize {
+  display: block;
+  margin: 0 auto;
+}
