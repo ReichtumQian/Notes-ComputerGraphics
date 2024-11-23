@@ -17,7 +17,7 @@
 -
 - ## CAD 建模
 - [[二维三角化划分]]
-- [[三维模型 Mesh]]
+- [[网格简化 Mesh Simplification]]
 -
 -
 -
