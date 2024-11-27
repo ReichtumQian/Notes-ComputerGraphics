@@ -21,6 +21,8 @@
 - ## CAD 建模
 - [[二维三角化划分]]
 - [[网格简化 Mesh Simplification]]
+- [[微分几何基础]]
+-
 -
 - ## OpenCV
 -
