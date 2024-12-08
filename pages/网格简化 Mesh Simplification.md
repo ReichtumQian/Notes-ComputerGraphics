@@ -54,7 +54,6 @@
   $$
   
   如果该矩阵不可逆。则随意取 $\mathbf{v}_1, \mathbf{v}_2$ 或者 $\frac{\mathbf{v}_1 + \mathbf{v}_2}{2}$。
-- **半边数据结构**：
 - **算法流程**：
 	- 对于所有的顶点计算矩阵 $\mathbf{Q}$。
 	- 选择所有的 valid pairs $(v_1, v_2)$，并计算对应的收缩位置 $\tilde{v}$，记录目标的 cost $\tilde{v}^T (\mathbf{Q}_1 + \mathbf{Q}_2) \tilde{v}$.
