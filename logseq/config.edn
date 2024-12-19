@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["contents" "数学分析" "解析几何" "数值代数" "机器学习" "深度学习" "优化问题"]
+ :favorites ["contents" "扫描转换" "数学分析" "解析几何" "数值代数" "机器学习" "深度学习" "优化问题"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -420,7 +420,7 @@
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :publishing/all-pages-public? true
- :feature/enable-flashcards? false
+ :feature/enable-flashcards? true
  :feature/enable-whiteboards? true
  :editor/preferred-pasting-file? true
  :feature/enable-journals? false

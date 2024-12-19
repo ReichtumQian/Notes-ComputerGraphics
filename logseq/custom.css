@@ -9,3 +9,56 @@
   display: block;
   margin: 0 auto;
 }
+
+/* nav buttons on one row, no labels */
+.nav-header {
+    margin-left: 1px;
+}
+
+.nav-header .flex-1 {
+    display: none
+}
+
+.nav-header .item {
+    margin-left: 1px;
+    padding: 4px !important;
+}
+
+.nav-header .ui__icon {
+    margin-right: 1px !important;
+}
+
+/* Favorites and Recent 
+   Indent them and also compress the space between them. */
+
+.nav-contents-container {
+  padding-top: 0px !important;
+}
+.favorites .header,
+.recent .header {
+  padding-top: 0px !important;
+  margin-top: 0px !important;
+  padding-bottom: 0px !important;
+  margin-bottom: 0px !important;
+}
+.favorites .bd,
+.recent .bd {
+  margin-left: 25px;  
+
+}
+
+.favorite-item a,
+.recent-item a {
+  padding-top:    4px !important;
+  padding-bottom: 0px !important;
+}
+
+
+/* Create button */
+button#create-button {
+  width: 30px !important; 
+}
+
+button#create-button .mx-1 {
+  display: none !important;
+}
