@@ -14,9 +14,5 @@
 - TODO 第十一课：微分几何
 - TODO 第十三课：明暗处理
 -
-- ## Table of Contents
--
-- 几何变换
-	-
 -
 -

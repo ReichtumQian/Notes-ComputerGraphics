@@ -12,7 +12,7 @@
 
 /* nav buttons on one row, no labels */
 .nav-header {
-    margin-left: 1px;
+    margin-left: 10px;
 }
 
 .nav-header .flex-1 {
@@ -20,12 +20,30 @@
 }
 
 .nav-header .item {
-    margin-left: 1px;
+    margin-left: 4px;
     padding: 4px !important;
 }
 
 .nav-header .ui__icon {
-    margin-right: 1px !important;
+    margin-right: 0px !important;
+}
+
+/* hide keyboard shortcut hint to fix hover style */
+.nav-header .item .ml-1 {
+    display: none;
+}
+
+.nav-header {
+    flex-direction: row;
+}
+
+#left-sidebar .item>.ti {
+    font-size: 18px;
+    vertical-align: middle;
+}
+
+.tie-whiteboard:before {
+    font-size: 20px;
 }
 
 /* Favorites and Recent 
@@ -61,4 +79,15 @@ button#create-button {
 
 button#create-button .mx-1 {
   display: none !important;
+}
+
+/* test*/
+
+.kef-ft-fav-arrow {
+  position: relative;
+  right: 0px;  /* 向左移动 */
+}
+
+[id^="radix-"] {
+  display: none;
 }
