@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["contents" "lecture3：颜色空间、图像及其处理" "lecture6：几何变换" "lecture7：三维视图" "lecture8：裁剪与消隐" "lecture9：3d建模" "lecture10：网格" "lecture11：微分几何" "lecture13：着色、明暗处理" "lecture14：渲染" "lecture13：着色与渲染" "lecture13：明暗处理" "lecture12：明暗处理" "lecture3：" "father/child" "数学分析" "解析几何" "数值代数" "机器学习" "深度学习" "优化问题"]
+ :favorites ["contents" "lecture3：颜色空间、图像及其处理" "lecture4：光栅化" "lecture6：几何变换" "lecture7：三维视图" "lecture8：裁剪与消隐" "lecture9：3d建模" "lecture10&12：网格" "lecture10：网格" "lecture11：微分几何" "lecture13：着色、明暗处理" "lecture14：渲染" "lecture13：着色与渲染" "lecture13：明暗处理" "lecture12：明暗处理" "lecture3：" "father/child" "数学分析" "解析几何" "数值代数" "机器学习" "深度学习" "优化问题"]
 
  ;; Set flashcards interval.
  ;; Expected value:
