@@ -81,13 +81,6 @@ button#create-button .mx-1 {
   display: none !important;
 }
 
-/* test*/
-
-.kef-ft-fav-arrow {
-  position: relative;
-  right: 0px;  /* 向左移动 */
-}
-
-[id^="radix-"] {
-  display: none;
+.nav-content-item.recent{
+    display: none;
 }
