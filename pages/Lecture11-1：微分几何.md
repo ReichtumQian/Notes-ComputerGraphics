@@ -16,12 +16,27 @@
 - ![image.png](../assets/image_1734937728206_0.png){:height 330, :width 427}
 - **第一基本形式**：给定曲面 $S(u, v)$，其第一基本形式为
   
-  $$I = T \cdot T = \begin{bmatrix}u&v\end{bmatrix}I_S\begin{bmatrix}u\\v\end{bmatrix}$$
-- **第二基本形式**：
+  $$I = T \cdot T = \begin{bmatrix}u&v\end{bmatrix}\begin{bmatrix}S_u\cdot S_u&S_u\cdot S_v\\S_u\cdot S_v&S_v\cdot S_v\end{bmatrix}\begin{bmatrix}u\\v\end{bmatrix}.$$
+  
+  第一基本形式作为一个二次型，提供了曲面切空间上的内积，进一步度量长度、角度、面积等。
+- **第二基本形式**：用于衡量曲面的曲率。
 -
 - ### 坐标变换
+- 给定非正交的基底 $S_u, S_v$，可以构建新的正交基
+- ![image.png](../assets/image_1734940767108_0.png){:height 449, :width 478}
+- 则此时第一基本形式的矩阵可以得到简化：
+- ![image.png](../assets/image_1734940979113_0.png)
+- 如果点 $T$ 在两个坐标系的坐标分别为 $(u, v)$ 和 $(s, t)$，则有以下关系：
+- ![image.png](../assets/image_1734941032912_0.png)
 -
 -
+- ### 曲率
+- 略
 -
+- ### Weingarten Operator
+- 略。
+-
+- ### Bending Energy
+- 略。
 -
 -
